@@ -2,3 +2,4 @@ line 1 in file.
 line 2 in file.
 line 3 in file.
 line 4 in file.
+line 5 in file.
